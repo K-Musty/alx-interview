@@ -1,4 +1,3 @@
-carrie@ubuntu:~/0x01-lockboxes$ cat main_0.py
 #!/usr/bin/python3
 
 canUnlockAll = __import__('0-lockboxes').canUnlockAll
