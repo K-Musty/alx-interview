@@ -2,6 +2,7 @@
 ### Must Know
 
 For this project, you will need a solid understanding of several key concepts in order to develop a solution that can efficiently determine if all boxes can be opened. Here’s a list of concepts and resources that will be instrumental in tackling this project:
+
 Concepts Needed:
 
 ####    Lists and List Manipulation:
@@ -29,4 +30,3 @@ Concepts Needed:
         Python Sets (Python Official Documentation)
 
 By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.
-
