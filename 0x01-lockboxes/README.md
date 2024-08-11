@@ -29,4 +29,4 @@ Concepts Needed:
         Understanding how to use sets for keeping track of visited boxes and available keys can optimize the search process.
         Python Sets (Python Official Documentation)
 
-By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.
+##### By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic way of thinking and Python programming skills.
